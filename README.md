@@ -18,42 +18,42 @@ Data Visualization
 
 **Key Features**
 
-Weekly revenue tracking
-Transaction amount and transaction count analysis
-Customer segmentation analysis
-Credit card category performance analysis
-State-wise revenue contribution
-Activation and delinquency rate monitoring
-Year-to-date performance overview
+Weekly revenue tracking.
+Transaction amount and transaction count analysis.
+Customer segmentation analysis.
+Credit card category performance analysis.
+State-wise revenue contribution.
+Activation and delinquency rate monitoring.
+Year-to-date performance overview.
 
 **Dashboard KPIs**
 
-Revenue
-Interest Earned
-Transaction Amount
-Transaction Count
-Customer Count
-Activation Rate
-Delinquency Rate
+Revenue,
+Interest Earned,
+Transaction Amount,
+Transaction Count,
+Customer Count,
+Activation Rate,
+Delinquency Rate.
 
 **Key Insights**
-Week 53 Performance (WoW)
-Revenue increased by 28.8%
-Total Transaction Amount increased
-Total Transaction Count increased
-Customer Count increased
+Week 53 Performance (WoW),
+Revenue increased by 28.8%,
+Total Transaction Amount increased,
+Total Transaction Count increased,
+Customer Count increased.
 
 **Year-to-Date Performance**
 
-Overall Revenue: $57M
-Total Interest Earned: $8M
-Total Transaction Amount: $46M
-Male Customers Revenue Contribution: $31M
-Female Customers Revenue Contribution: $26M
-Blue and Silver Credit Cards contributed 93% of total transactions
-Texas, New York, and California contributed 68% of total revenue
-Overall Activation Rate: 57.5%
-Overall Delinquency Rate: 6.06%
+Overall Revenue: $57M,
+Total Interest Earned: $8M,
+Total Transaction Amount: $46M,
+Male Customers Revenue Contribution: $31M,
+Female Customers Revenue Contribution: $26M,
+Blue and Silver Credit Cards contributed 93% of total transactions,
+Texas, New York, and California contributed 68% of total revenue,
+Overall Activation Rate: 57.5%,
+Overall Delinquency Rate: 6.06%,
 
 **Business Impact**
 
