@@ -1,63 +1,155 @@
-_Credit Card Financial Dashboard_
+# Credit Card Financial Dashboard | Power BI
 
-**Project Overview**
+## Project Overview
 
-This project focuses on developing an interactive Credit Card Financial Dashboard to provide real-time insights into customer behavior, transaction performance, revenue generation, and operational KPIs. The dashboard enables stakeholders to monitor trends and make data-driven decisions.
+This project focuses on analyzing credit card transaction and customer data to provide actionable business insights through an interactive Power BI dashboard. The dashboard enables stakeholders to monitor key financial KPIs, customer behavior, transaction trends, and card performance in real time.
 
-**Project Objective**
+The solution helps business teams identify revenue drivers, track customer engagement, and evaluate overall credit card portfolio performance.
 
-To develop a comprehensive weekly credit card dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+---
 
-**Tools & Technologies Used**
+## Business Problem
 
-Power BI,
-SQL,
-DAX,
-Data Modeling,
-Data Visualization.
+Financial institutions generate large volumes of customer and transaction data. Without a centralized reporting solution, it becomes difficult to monitor revenue trends, customer activity, card performance, and operational KPIs.
 
-**Key Features**
+This dashboard was developed to provide a single source of truth for analyzing credit card operations and supporting data-driven decision-making.
 
-Weekly revenue tracking.
-Transaction amount and transaction count analysis.
-Customer segmentation analysis.
-Credit card category performance analysis.
-State-wise revenue contribution.
-Activation and delinquency rate monitoring.
-Year-to-date performance overview.
+---
 
-**Dashboard KPIs**
+## Objectives
 
-Revenue,
-Interest Earned,
-Transaction Amount,
-Transaction Count,
-Customer Count,
-Activation Rate,
-Delinquency Rate.
+* Monitor revenue and transaction performance.
+* Analyze customer demographics and spending behavior.
+* Track credit card category performance.
+* Identify top-performing regions and customer segments.
+* Measure activation and delinquency rates.
+* Deliver real-time business insights through interactive visualizations.
 
-**Key Insights**
-Week 53 Performance (WoW),
-Revenue increased by 28.8%,
-Total Transaction Amount increased,
-Total Transaction Count increased,
-Customer Count increased.
+---
 
-**Year-to-Date Performance**
+## Tools & Technologies
 
-Overall Revenue: $57M,
-Total Interest Earned: $8M,
-Total Transaction Amount: $46M,
-Male Customers Revenue Contribution: $31M,
-Female Customers Revenue Contribution: $26M,
-Blue and Silver Credit Cards contributed 93% of total transactions,
-Texas, New York, and California contributed 68% of total revenue,
-Overall Activation Rate: 57.5%,
-Overall Delinquency Rate: 6.06%,
+* Power BI
+* Power Query
+* DAX (Data Analysis Expressions)
+* Data Modeling
+* Data Visualization
+* Excel / CSV Dataset
 
-**Business Impact**
+---
 
-Identified high-performing customer segments.
-Tracked weekly business growth and performance trends.
-Enabled data-driven decision-making through real-time KPI monitoring.
-Highlighted regional and card-category contributions to revenue generation.
+## Dataset
+
+The project utilizes customer and transaction datasets containing:
+
+* Customer Demographics
+* Credit Card Category Information
+* Transaction Amounts
+* Transaction Counts
+* Interest Revenue
+* Customer Acquisition Data
+* Regional Information
+* Account Activity Metrics
+
+---
+
+## Dashboard KPIs
+
+* Total Revenue
+* Total Transaction Amount
+* Total Transaction Count
+* Total Interest Earned
+* Customer Count
+* Activation Rate
+* Delinquency Rate
+
+---
+
+## Dashboard Features
+
+* Revenue Performance Tracking
+* Weekly and Year-to-Date Analysis
+* Customer Demographic Analysis
+* Gender-Based Revenue Distribution
+* Credit Card Category Performance
+* State-Wise Revenue Analysis
+* Interactive Filters and Drill-Down Capabilities
+* KPI Monitoring Dashboard
+
+---
+
+## Key Business Insights
+
+### Week-over-Week Performance
+
+* Revenue increased by **28.8%**.
+* Transaction activity showed significant growth.
+* Customer acquisition continued to improve.
+* Overall business performance demonstrated positive momentum.
+
+### Year-to-Date Performance
+
+* Total Revenue: **$57 Million**
+* Total Interest Earned: **$8 Million**
+* Total Transaction Amount: **$46 Million**
+
+### Customer Insights
+
+* Male customers contributed **$31 Million** in revenue.
+* Female customers contributed **$26 Million** in revenue.
+* Revenue contribution was relatively balanced across customer segments.
+
+### Card Performance Insights
+
+* Blue and Silver credit cards contributed approximately **93%** of total transactions.
+* Certain card categories significantly outperformed others in customer usage.
+
+### Geographic Insights
+
+* Texas (TX), New York (NY), and California (CA) contributed approximately **68%** of total revenue.
+* Revenue generation was concentrated within a few key regions.
+
+### Operational Insights
+
+* Overall Activation Rate: **57.5%**
+* Overall Delinquency Rate: **6.06%**
+
+These metrics provide valuable insights into customer engagement, account activation efficiency, and portfolio risk management.
+
+---
+
+## Business Impact
+
+* Enabled stakeholders to monitor financial performance through a centralized dashboard.
+* Improved visibility into customer spending behavior and transaction trends.
+* Identified high-performing customer segments and regions.
+* Supported strategic decision-making using KPI-driven reporting.
+* Enhanced understanding of credit card portfolio performance.
+
+---
+
+
+## Skills Demonstrated
+
+* Data Cleaning & Transformation
+* Data Modeling
+* DAX Calculations
+* KPI Development
+* Financial Analytics
+* Customer Analytics
+* Dashboard Design
+* Business Intelligence
+* Data Visualization
+* Data Storytelling
+
+---
+
+## Learning Outcomes
+
+Through this project, I strengthened my skills in:
+
+* Building end-to-end Power BI solutions.
+* Creating KPI-driven business dashboards.
+* Performing financial and customer analytics.
+* Designing interactive visualizations for decision-makers.
+* Communicating business insights through data storytelling.
