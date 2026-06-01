@@ -10,11 +10,11 @@ To develop a comprehensive weekly credit card dashboard that provides real-time 
 
 **Tools & Technologies Used**
 
-Power BI
-SQL
-DAX
-Data Modeling
-Data Visualization
+Power BI,
+SQL,
+DAX,
+Data Modeling,
+Data Visualization.
 
 **Key Features**
 
